@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "nodes": [
+    {
+      "id": "first-trial",
+      "type": "document",
+      "data": {
+        "documentId": "first-trial"
+      }
+    },
+    {
+      "id": "blue-falcon",
+      "type": "file",
+      "data": {
+        "path": "Assets/Art/BlueFalcon.foxmesh"
+      },
+      "title": "蓝隼 · Unity 竞赛车模"
+    },
+    {
+      "id": "eleven-city",
+      "type": "file",
+      "data": {
+        "path": "Assets/Scenes/ElevenCity.unity"
+      },
+      "title": "十一城 · Unity 赛道场景"
+    },
+    {
+      "id": "grid-preview",
+      "type": "asset",
+      "data": {
+        "assetId": "grid-preview",
+        "mediaType": "image"
+      },
+      "title": "蓝隼发车区 · 实机截图"
+    },
+    {
+      "id": "race-preview",
+      "type": "asset",
+      "data": {
+        "assetId": "race-preview",
+        "mediaType": "image"
+      },
+      "title": "十一城弯道 · 实机截图"
+    },
+    {
+      "id": "full-car-models",
+      "type": "file",
+      "title": "四款赛车 · Unity 车模",
+      "description": "蓝隼、赤狐、青岳和紫电的比赛模型。",
+      "data": {
+        "path": "Assets/Resources/Photon/Cars",
+        "directory": true
+      }
+    },
+    {
+      "id": "full-track-models",
+      "type": "file",
+      "title": "九张地图 · Unity 赛道网格",
+      "description": "比赛使用的路面、护栏和场景网格。",
+      "data": {
+        "path": "Assets/Resources/Photon/Tracks",
+        "directory": true
+      }
+    },
+    {
+      "id": "ice-map-picker-preview",
+      "type": "asset",
+      "title": "冰封谷 · 选图界面配图",
+      "description": "房主选择冰封谷时显示的原版选图资源。",
+      "data": {
+        "assetId": "ice-map-picker-preview",
+        "mediaType": "image"
+      }
+    }
+  ],
+  "edges": [],
+  "id": "22d29e7b-7ef4-4d53-a11b-b14980abd44c"
+}

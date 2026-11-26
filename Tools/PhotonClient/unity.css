@@ -1,0 +1,8 @@
+html, body { background: transparent !important; }
+.photon-connection { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
+#pregame-ui .photon-connection .pg-button { padding: 8px 12px; min-height: 36px; }
+.photon-server-dialog { width: min(calc(100vw - 32px), 460px); }
+.photon-server-dialog form { display: grid; gap: 16px; padding: 24px; color: #d9edff; }
+.photon-server-dialog input { width: 100%; min-height: 42px; padding: 8px 12px; color: #eef9ff; background: #0b1b2b; border: 1px solid #385067; border-radius: 5px; }
+.photon-server-actions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: end; }
+.photon-server-dialog p { margin: 0; color: #f4b379; }

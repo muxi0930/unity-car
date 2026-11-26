@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "boards": [
+    {
+      "id": "22d29e7b-7ef4-4d53-a11b-b14980abd44c",
+      "name": "Untitled"
+    }
+  ],
+  "documents": [
+    {
+      "id": "first-trial",
+      "title": "十一城计时赛"
+    }
+  ],
+  "mainDocumentId": "first-trial"
+}

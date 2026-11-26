@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "assets": {
+    "grid-preview": {
+      "name": "蓝隼发车区",
+      "path": "canvas/previews/blue-falcon.jpg",
+      "description": "Unity macOS 实机画面。"
+    },
+    "race-preview": {
+      "name": "十一城弯道",
+      "path": "canvas/previews/eleven-city.jpg",
+      "description": "Unity macOS 测试包中的弯道及追车镜头。"
+    },
+    "ice-map-picker-preview": {
+      "name": "冰封谷选图配图",
+      "path": "Assets/StreamingAssets/PhotonClient/ui/pregame/ice-valley.webp",
+      "description": "Unity 客户端的赛道选择和房间地图卡片使用。"
+    }
+  }
+}
